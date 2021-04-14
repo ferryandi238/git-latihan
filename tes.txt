@@ -3,4 +3,8 @@ tes git merge
 coba lagi
 back ke commit d065c36 buat branch baru "pew"
 coba lagi back setelah dari e8f6ed5
+<<<<<<< HEAD
 edit tes 1a39c6d
+=======
+lanjut edit 1a39c6d
+>>>>>>> 485a7f1db33595ab0ec73fa3ae0fae2a333c3647
